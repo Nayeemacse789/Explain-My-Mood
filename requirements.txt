@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+torch
+openai
+whisper
+pydub
+python-multipart
